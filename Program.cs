@@ -1,7 +1,13 @@
+using AMST4.CAROUSEL.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ApplicationDataContext>(options => options.UseSqlite
+(builder.Configuration.GetConnectionString("DefaultContext")));
 
 var app = builder.Build();
 
