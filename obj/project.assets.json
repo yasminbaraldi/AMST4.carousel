@@ -8156,7 +8156,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fatec Taqua. 17\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -8164,11 +8164,11 @@
       "projectUniqueName": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.csproj",
       "projectName": "AMST4.CAROUSEL",
       "projectPath": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\AMST4.CAROUSEL.csproj",
-      "packagesPath": "C:\\Users\\Fatec Taqua. 17\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
       "outputPath": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Fatec Taqua. 17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8247,7 +8247,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
