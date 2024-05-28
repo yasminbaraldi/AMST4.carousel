@@ -1,275 +1,275 @@
 {
   "Files": [
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AMST4.CAROUSEL.bundle.scp.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AMST4.CAROUSEL.bundle.scp.css",
       "PackagePath": "staticwebassets\\AMST4.CAROUSEL.bundle.scp.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\css\\site.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\favicon.ico",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Category\\aa360f1c-c888-4da1-9bc3-7db7dce738dccursos-online-calculo.png",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Category\\aa360f1c-c888-4da1-9bc3-7db7dce738dccursos-online-calculo.png",
       "PackagePath": "staticwebassets\\images\\Category\\aa360f1c-c888-4da1-9bc3-7db7dce738dccursos-online-calculo.png"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Category\\f2908e86-a4ed-4340-af8b-d6bd5252e734cursos-online-calculo.png",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Category\\f2908e86-a4ed-4340-af8b-d6bd5252e734cursos-online-calculo.png",
       "PackagePath": "staticwebassets\\images\\Category\\f2908e86-a4ed-4340-af8b-d6bd5252e734cursos-online-calculo.png"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Product\\59fcd4b4-b73e-4b8f-ac27-c6bc6b49ed29cursos-online-calculo.png",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Product\\59fcd4b4-b73e-4b8f-ac27-c6bc6b49ed29cursos-online-calculo.png",
       "PackagePath": "staticwebassets\\images\\Product\\59fcd4b4-b73e-4b8f-ac27-c6bc6b49ed29cursos-online-calculo.png"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Product\\d76146c9-d7f2-4b12-a022-13b84e8adec1cursos-online-calculo.png",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\Product\\d76146c9-d7f2-4b12-a022-13b84e8adec1cursos-online-calculo.png",
       "PackagePath": "staticwebassets\\images\\Product\\d76146c9-d7f2-4b12-a022-13b84e8adec1cursos-online-calculo.png"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem1.jpeg",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem1.jpeg",
       "PackagePath": "staticwebassets\\images\\imagem1.jpeg"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem2.png",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem2.png",
       "PackagePath": "staticwebassets\\images\\imagem2.png"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem3.jpeg",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\images\\imagem3.jpeg",
       "PackagePath": "staticwebassets\\images\\imagem3.jpeg"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\js\\site.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\c#\\AMST4.CAROUSEL\\AMST4.CAROUSEL.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

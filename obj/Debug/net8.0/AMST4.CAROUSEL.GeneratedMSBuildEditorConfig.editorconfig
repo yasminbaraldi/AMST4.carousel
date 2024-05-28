@@ -26,6 +26,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\c#\AMST4.CAROUSEL\AMST4.CAROUSEL.MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXFNoYXJlZFxfQ2Fyb3VzZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/Views/Category/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -109,6 +137,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/AMST4.CAROUSEL.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QU1TVDQuQ0FST1VTRUwuTVZDXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-t7u1wvenvi
 
 [D:/c\#/AMST4.CAROUSEL/AMST4.CAROUSEL.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
